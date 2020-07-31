@@ -1,0 +1,11 @@
+{
+  "name": "instagram-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ItaloLR/instagram-bot.git",
+  "author": "Italo Lima Ribeiro <italo-ribeiro45@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  }
+}
